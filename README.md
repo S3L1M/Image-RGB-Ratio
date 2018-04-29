@@ -1,5 +1,11 @@
 # Image RGB Ratio
-Project in Linear Algebra course which converts an image to RGB Matrix using Numpy, PIL and scipy Libs and uses manim animation engine to show how RGB ratio is changing
+Project in Linear Algebra course which converts an image to RGB Matrix using Numpy, PIL and scipy Libs and uses manim animation engine to show how RGB ratio is changing.
+
+# How to run
+Just run Task.py after install all dependencies
+
+# YouTube Video
+https://www.youtube.com/watch?v=-oov6xugGuw
 
 # manim
 [Original repo](https://github.com/3b1b/manim)
