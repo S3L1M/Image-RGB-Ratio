@@ -2,7 +2,7 @@
 Project in Linear Algebra course which converts an image to RGB Matrix using Numpy, PIL and scipy Libs and uses manim animation engine to show how RGB ratio is changing
 
 # manim
-[Original repo] (https://github.com/3b1b/manim)
+[Original repo](https://github.com/3b1b/manim)
 
 
 ## Install requirements
